@@ -1,0 +1,5 @@
+po=int(input())
+essencia=int(input())
+lagrima=int(input())
+custo=(po*5)+(essencia*3)+(lagrima*8)
+print(custo)

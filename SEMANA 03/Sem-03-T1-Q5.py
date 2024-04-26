@@ -1,0 +1,5 @@
+po=int(input('Quantas porções de Pó de Lua Estelar? '))
+essencia=int(input('Quantas porções de Essência de Dragão? '))
+lagrima=int(input('Quantas porções de Lágrimas de Fênix? '))
+custo=(po*5)+(essencia*3)+(lagrima*8)
+print('O custo total será de',custo,'moedas')
